@@ -1,6 +1,6 @@
 # Tail allocation and stability in heavy-tailed networks
 
-Reproduction code for **Tail allocation controls stability in heavy-tailed networks with identical spectral bulk**. Author: Ruocun Ou. Version: 2026.10.12.
+Reproduction code for **Tail allocation controls stability in heavy-tailed networks with identical spectral bulk**. Author: Ruocun Ou. Version: 2026.10.13.
 
 ## Install and run
 
